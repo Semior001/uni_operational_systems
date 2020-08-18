@@ -1,0 +1,7 @@
+  # the starting part of the file was deleted for security reasons 
+ 2572  echo "#include <stdio.h>\\nint main(){\\n  printf(\"Hello world\");\\n  return 0;\\n}" > ~/week1/main.c
+ 2573  gcc -o ex4 ~/week1/main.c
+ 2574  gcc -o ~/week1/ex4 ~/week1/main.c
+ 2575  rm ex4
+ 2576  ls week1
+ 2577  ./week1/ex4
