@@ -1,0 +1,1 @@
+size a > ex1.txt
