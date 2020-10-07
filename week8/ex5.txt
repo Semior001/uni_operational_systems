@@ -1,0 +1,3 @@
+Physical address points to the segment of "real" computer memory address space, 
+while the virtual address points to the segment of the **slice** of the "real" computer memory space.
+This slice is managed by the OS.
