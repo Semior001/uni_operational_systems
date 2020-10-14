@@ -1,0 +1,5 @@
+In order to increase hit/miss ratio, a number of distinct pages in a reference sequence should be as small as possible.
+The maximum is achieved when #<distinct pages> <= #<available page frames>
+
+In order to decrease hit/miss ratio, a number of distinct pages in a reference sequence should be as bit as possible.
+The minimum (0) is achieved when all pages in a reference sequence are distinct
