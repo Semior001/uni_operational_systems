@@ -1,0 +1,3 @@
+35350575 _ex2.txt
+./week01/file.txt
+./week10/_ex2.txt
