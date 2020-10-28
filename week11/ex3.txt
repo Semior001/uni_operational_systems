@@ -1,0 +1,9 @@
+When we print the output in the first program - we flush the buffer, and, as the forked process shares the
+buffer with the main process, we got doubled "Hello". 
+In the second program buffer is flushed before fork, therefore one "Hello"
+
+First code output:
+Hello
+Hello
+Second code output:
+Hello
