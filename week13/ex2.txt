@@ -1,0 +1,9 @@
+Recovery:
+Only several processes can provide an opportunity to restart from some checkpoint, if so, this possibility should be used.
+
+Prevention:
+Should be used always in order to minimize risks of deadlocks appear.
+
+Avoidance:
+The best, when additional information about potential use of resources is known.
+Usually impossible to implement in real OS.
